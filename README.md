@@ -21,3 +21,20 @@
 <p>The files in the STL folder are sized as if all pieces were cut out of 1/8" acrylic. If you use 1/4" for the middle parts or the whole thing, you will need to resize them accordingly. STEP files are included in the STP folder. One day I may get around to doing this and labeling the new STLs accordingly. 
 <p>You will need five each of the "Main Hex Female.stl" and "Main Hex Male.stl" and one each of the "Lock Hex Female.stl" and "Lock Hex Male.stl". I printed these in PLA with 3 perimeters and 20% infill. No supports are needed the way they are currently oriented.<br>
 <br>
+<h3>Make the spring from steel wire</h3>
+<p>I used 302 stainless steel wire that is 2mm (0.078") in diameter and bent the spring to the shape shown in "Spring.DXF". You can either print the file full sized and use it as a template, or have the piece cut out of acrylic to use as a template. I did the latter because it was such a small piece that it didn't add much to my order for laser cutting.
+<p>Hardening<br>
+<br>
+<h3>Assemble and Enjoy!</h3>
+<p>That's it! It's simple to put together. The printed nuts and bolts only fit into the holes they belong in. You can refer to the "Assembled.jpg" picture if you are unsure where something goes.
+<p>Now go out and share your knowledge of how handcuffs work with your team/group/friends/hackerspace/colleauges/etc!<br>
+<br>
+<h2><b>To Do List</b></h3>
+<ul>
+  <li>Thicker acrylic - If someone has a large laser cutter and would donate their time and the laser's time, I'll pay for materials and shipping. I'd love to have a rock solid version of this out of 1/4" acrylic.
+  <li>Resize screws - If I can get some thicker acrylic parts, I'll resize the screws to fit and leave both versions so people have choices if they want to build it but can't resize the screws.
+  <li>Key - I still need to model a 3D printable key that will operate this.
+  <li>Working Double Lock - You can get the double lock working now if you cut a slot on the side in the middle layer and used something long to activate it. I'd like to develop pieces that can just be assembled without any additional cutting by the end user.
+  <li>Suggestions??? - Let me know on Twitter @vitosrocco
+</ul>
+<br>
