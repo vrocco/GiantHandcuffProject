@@ -13,5 +13,4 @@
   <li>Assemble and Enjoy!</li>
 </ol>
 <br>
-<br>
 <h3>Laser cut the DXF Files</h3>
