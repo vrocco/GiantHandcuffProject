@@ -1,6 +1,6 @@
 # Giant Handcuff Project <br> @vitosrocco
 <h2><b>What is this thing?</b></h2><br>
-<p>I created the Giant Handcuff Project because I enjoy teaching people about physical security, lockpicking, and bypass techniques. Several manufacturers make a "see-through" handcuff that is greta for demonstrating how handcuffs work and showing the locking mechanism and bypass techniques. However, all these products are the size of a normal handcuff. When teaching a room full of people, I wanted to have something large enough to show to the entire room at once. Since a handcuff is a fairly simple device, I was confident that, even with my noob-ish CAD skills, I could design something that would work for me.<br>
+<p>I created the Giant Handcuff Project because I enjoy teaching people about physical security, lockpicking, and bypass techniques. Several manufacturers make a "see-through" handcuff that is great for demonstrating how handcuffs work and showing the locking mechanism and bypass techniques. However, all these products are the size of a normal handcuff. When teaching a room full of people, I wanted to have something large enough to show to the entire room at once. Since a handcuff is a fairly simple device, I was confident that, even with my noob-ish CAD skills, I could design something that would work for me.<br>
 <br>
 <h2><b>Why would I want to make one??</b></h2>
 <p>Ummmmmm.........It's a GIANT FREAKING HANDCUFF!<br>
