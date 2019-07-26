@@ -22,8 +22,7 @@
 <p>You will need five each of the "Main Hex Female.stl" and "Main Hex Male.stl" and one each of the "Lock Hex Female.stl" and "Lock Hex Male.stl". I printed these in PLA with 3 perimeters and 20% infill. No supports are needed the way they are currently oriented.<br>
 <br>
 <h3>Make the spring from steel wire</h3>
-<p>I used 302 stainless steel wire that is 2mm (0.078") in diameter and bent the spring to the shape shown in "Spring.DXF". You can either print the file full sized and use it as a template, or have the piece cut out of acrylic to use as a template. I did the latter because it was such a small piece that it didn't add much to my order for laser cutting.
-<p>Hardening<br>
+<p>I used 302 stainless steel spring wire that is 2mm (0.078") in diameter. This can be found fairly cheaply on Amazon or Ebay. The wire needs to be bent to the shape shown in "Spring.DXF". You can either print the file full sized and use it as a template, or have the piece cut out of acrylic to use as a template. I did the latter because it was such a small piece that it didn't add much to my order for laser cutting.<br>
 <br>
 <h3>Assemble and Enjoy!</h3>
 <p>That's it! It's simple to put together. The printed nuts and bolts only fit into the holes they belong in. You can refer to the "Assembled.jpg" picture if you are unsure where something goes.
