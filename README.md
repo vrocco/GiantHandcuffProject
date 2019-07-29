@@ -32,8 +32,8 @@
 <h2><b>To Do List</b></h3>
 <ul>
   <li>Key - I still need to model a 3D printable key that will operate this. You can always use a pick or a wire to demonstrate how the key operates the mechanism. I wanted to get this released, so I decided to put it out there before the key was done.
-  <li>Resize screws - If I can get some thicker acrylic parts, I'll resize the screws to fit and leave both versions so people have choices if they want to build it but can't resize the screws.
   <li>Thicker acrylic - If someone has a large laser cutter and would donate their time and the laser's time, I'll pay for materials and shipping. I'd love to have a rock solid version of this out of 1/4" acrylic.
+  <li>Resize screws - If I can get some thicker acrylic parts, I'll resize the screws to fit and leave both versions so people have choices if they want to build it but can't resize the screws.
   <li>Working Double Lock - You can get the double lock working now if you cut a slot on the side in the middle layer and used something long to activate it. I'd like to develop pieces that can just be assembled without any additional cutting by the end user.
   <li>Suggestions??? - Let me know on Twitter @vitosrocco
 </ul>
