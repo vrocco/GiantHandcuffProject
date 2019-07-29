@@ -27,7 +27,7 @@
 <br>
 <h3>Assemble and Enjoy!</h3>
 <p>That's it! It's simple to put together. The printed nuts and bolts only fit into the holes they belong in. You can refer to the "Assembled.jpg" picture if you are unsure where something goes.
-<p>Now go out and share your knowledge of how handcuffs work with your team/group/friends/hackerspace/colleauges/etc!<br>
+<p>Now go out and share your knowledge of how handcuffs work with your team/group/friends/hackerspace/colleauges/etc! You can use a pick to show the opening mechanism or cut down some feeler gauge stock to use as a shim.<br>
 <br>
 <h2><b>To Do List</b></h3>
 <ul>
